@@ -1,0 +1,147 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0ZM-mf-Q2P"; */
+"0ZM-mf-Q2P.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Green:"; ObjectID = "1nV-Dc-b5j"; */
+"1nV-Dc-b5j.text" = "Green:";
+
+/* Class = "UIButton"; normalTitle = "< Back to Main menu"; ObjectID = "2C9-wu-UwO"; */
+"2C9-wu-UwO.normalTitle" = "< Back to Main menu";
+
+/* Class = "UIButton"; normalTitle = "Game"; ObjectID = "3hj-Jn-2z2"; */
+"3hj-Jn-2z2.normalTitle" = "Game";
+
+/* Class = "UILabel"; text = "Game Over"; ObjectID = "4Rj-UP-mJk"; */
+"4Rj-UP-mJk.text" = "Game Over";
+
+/* Class = "UIButton"; normalTitle = "< back"; ObjectID = "6AX-uJ-O9Y"; */
+"6AX-uJ-O9Y.normalTitle" = "< back";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "77S-4z-fob"; */
+"77S-4z-fob.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "7aw-sO-L5t"; */
+"7aw-sO-L5t.text" = "0";
+
+/* Class = "UILabel"; text = "Color sub:"; ObjectID = "8cV-Cf-d4h"; */
+"8cV-Cf-d4h.text" = "Color sub:";
+
+/* Class = "UIButton"; normalTitle = "< back"; ObjectID = "8xu-vN-lgV"; */
+"8xu-vN-lgV.normalTitle" = "< back";
+
+/* Class = "UILabel"; text = "Player name:"; ObjectID = "BRC-5j-mNL"; */
+"BRC-5j-mNL.text" = "Player name:";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "CKS-a6-Ec7"; */
+"CKS-a6-Ec7.text" = "Score";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CPY-DN-Z7f"; */
+"CPY-DN-Z7f.text" = "Label";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "DWB-1v-6X0"; */
+"DWB-1v-6X0.text" = "Welcome to";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "EU2-1G-8dt"; */
+"EU2-1G-8dt.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "GkL-i0-tIj"; */
+"GkL-i0-tIj.text" = "Date";
+
+/* Class = "UILabel"; text = "Ships"; ObjectID = "L3a-FO-3PX"; */
+"L3a-FO-3PX.text" = "Ships";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "MCl-5v-sGR"; */
+"MCl-5v-sGR.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Mng-1s-89U"; */
+"Mng-1s-89U.text" = "Settings";
+
+/* Class = "UILabel"; text = "Game Over,"; ObjectID = "NLh-IB-MfY"; */
+"NLh-IB-MfY.text" = "Game Over,";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "OlH-Z7-odg"; */
+"OlH-Z7-odg.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Qgh-Yj-fcy"; */
+"Qgh-Yj-fcy.text" = "0";
+
+/* Class = "UILabel"; text = "Blue:"; ObjectID = "RIw-e3-u6h"; */
+"RIw-e3-u6h.text" = "Blue:";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "Rzo-vV-WMK"; */
+"Rzo-vV-WMK.normalTitle" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Up"; ObjectID = "TBk-Ni-Wra"; */
+"TBk-Ni-Wra.normalTitle" = "Up";
+
+/* Class = "UIButton"; normalTitle = "Score"; ObjectID = "TyY-Wh-3pQ"; */
+"TyY-Wh-3pQ.normalTitle" = "Score";
+
+/* Class = "UITextField"; placeholder = "Type your name here"; ObjectID = "VJZ-U1-IWW"; */
+"VJZ-U1-IWW.placeholder" = "Type your name here";
+
+/* Class = "UIButton"; normalTitle = "Down"; ObjectID = "Y2v-tm-Mig"; */
+"Y2v-tm-Mig.normalTitle" = "Down";
+
+/* Class = "UILabel"; text = "Game speed:"; ObjectID = "Ztp-rX-AZ4"; */
+"Ztp-rX-AZ4.text" = "Game speed:";
+
+/* Class = "UILabel"; text = "User name:"; ObjectID = "axY-fT-dsQ"; */
+"axY-fT-dsQ.text" = "User name:";
+
+/* Class = "UIButton"; configuration.title = ">"; ObjectID = "bEX-NP-Nfk"; */
+"bEX-NP-Nfk.configuration.title" = ">";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bEX-NP-Nfk"; */
+"bEX-NP-Nfk.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bgl-hU-2zc"; */
+"bgl-hU-2zc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Choose sub:"; ObjectID = "ciV-8I-8Sv"; */
+"ciV-8I-8Sv.text" = "Choose sub:";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "eBP-3F-3Hf"; */
+"eBP-3F-3Hf.text" = "User Name";
+
+/* Class = "UILabel"; text = "Your score "; ObjectID = "eJx-FC-KzD"; */
+"eJx-FC-KzD.text" = "Your score ";
+
+/* Class = "UIButton"; configuration.title = "<"; ObjectID = "eRf-Gb-NUX"; */
+"eRf-Gb-NUX.configuration.title" = "<";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eRf-Gb-NUX"; */
+"eRf-Gb-NUX.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fIm-y0-RFe"; */
+"fIm-y0-RFe.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Score:"; ObjectID = "hx6-1l-h86"; */
+"hx6-1l-h86.text" = "Score:";
+
+/* Class = "UILabel"; text = "Your score "; ObjectID = "iLS-qF-BXU"; */
+"iLS-qF-BXU.text" = "Your score ";
+
+/* Class = "UILabel"; text = "Obstacles:"; ObjectID = "iOh-wn-zbR"; */
+"iOh-wn-zbR.text" = "Obstacles:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ixa-pA-HMX"; */
+"ixa-pA-HMX.text" = "Name";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "izk-JF-Wzk"; */
+"izk-JF-Wzk.text" = "1";
+
+/* Class = "UILabel"; text = "Red:"; ObjectID = "kyN-pY-7EO"; */
+"kyN-pY-7EO.text" = "Red:";
+
+/* Class = "UILabel"; text = "Torpedoes"; ObjectID = "mlD-eX-qDH"; */
+"mlD-eX-qDH.text" = "Torpedoes";
+
+/* Class = "UILabel"; text = "Yellow:"; ObjectID = "pxb-rh-LLs"; */
+"pxb-rh-LLs.text" = "Yellow:";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "v8D-yi-jHP"; */
+"v8D-yi-jHP.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Fishes"; ObjectID = "xCl-Au-0Mz"; */
+"xCl-Au-0Mz.text" = "Fishes";

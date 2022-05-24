@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "medKit.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
